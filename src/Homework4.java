@@ -15,4 +15,5 @@ class Test{
         Homework4 gcd = new Homework4();
         System.out.println("두 수의 최대공약수는 " + gcd.gcd(n, m) + "입니다.");
     }
+
 }
